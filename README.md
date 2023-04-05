@@ -1,5 +1,7 @@
 # 2023-code-IFAC-Nonlinear Distributed Model Predictive Flocking with Obstacle Avoidance
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7801766.svg)](https://doi.org/10.5281/zenodo.7801766)
+
 ## General
 
 This repository contains an implementation of the algorithms and simulations described in 
